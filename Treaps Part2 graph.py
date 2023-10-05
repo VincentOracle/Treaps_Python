@@ -1,4 +1,4 @@
-# CS 610 Spring 2023
+# Author: Were Vincent
 # Instructor: Ravi Varadarajan
 # Performance of Treaps Project
 #Date: 2/MAY/2023
