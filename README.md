@@ -17,6 +17,9 @@ Rotation: To maintain the properties of the treap, you might need to perform rot
 Operations:
 
 Insertion: When you insert a node with a given key and priority, it is placed in the tree according to the BST property. Then, rotations are performed if needed to maintain the heap property.
+
+
+
 Deletion: You can delete a node by its key. This involves finding the node and removing it, then reorganizing the tree to maintain both properties.
 Searching: You can search for a node in a treap just like in a standard BST, by comparing the key you're looking for with the keys in the tree.
 
