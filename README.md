@@ -8,6 +8,9 @@ Here's a basic overview of how treaps work in Python:
 Node Structure: Each node in the treap contains two pieces of information:
 
 A key: This value is used to maintain the BST property. The keys follow the ordering such that nodes to the left have smaller keys, and nodes to the right have larger keys.
+
+
+
 A priority: This is a randomly assigned value used to maintain the heap property. The priorities are typically generated uniformly at random when inserting nodes.
 Rotation: To maintain the properties of the treap, you might need to perform rotations (similar to AVL or Red-Black trees). Rotations can be either left-rotations or right-rotations. These rotations are used to adjust the tree when nodes are inserted or deleted to ensure that the tree remains balanced.
 
