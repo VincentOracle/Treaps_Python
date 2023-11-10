@@ -1,7 +1,7 @@
 # Treaps_Python
 Treaps implementation in Python that  attempts to keep a binary tree balanced by maintaining a priority heap using randomly generated values. Includes full-coverage and stress tests.
 
-A treap (pronounced like "tree" and "heap" combined) is a data structure that combines the properties of both binary search trees (BSTs) and binary heaps. In a treap, each node has both a key (which satisfies the BST property) and a priority (which satisfies the heap property). The priority is usually assigned randomly, creating a balanced binary tree structure. Treaps are used in various applications, including randomized algorithms and data structures where both searching and priority-based operations are important.
+A treap (pronounced like "tree" and "heap" combined) is basically a data structure that combines the properties of both binary search trees (BSTs) and binary heaps. In a treap, each node has both a key (which satisfies the BST property) and a priority (which satisfies the heap property). The priority is usually assigned randomly, creating a balanced binary tree structure. Treaps are used in various applications, including randomized algorithms and data structures where both searching and priority-based operations are important.
 
 Here's a basic overview of how treaps work in Python:
 
